@@ -1,0 +1,14 @@
+{
+  "name": "Behind the Bar · Staff Schedule",
+  "short_name": "Bar Schedule",
+  "description": "Build, check and share bartender schedules for a New York bar.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ECEEF1",
+  "theme_color": "#0C6B66",
+  "icons": [
+    { "src": "icon-180.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
